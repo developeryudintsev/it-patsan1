@@ -1,0 +1,27 @@
+table {
+    border: solid red 1px;
+    width: 80%;
+}
+
+td {
+    border: solid black 1px;
+  }
+
+  .HeadFooter{
+    background-color: aqua;
+
+  }
+
+.Menu{
+    background-color: bisque;
+    width: 20%;
+}
+
+.Content{
+    background-color: chartreuse;
+    width: 40%;
+}
+
+.red{
+    background-color: red;
+}

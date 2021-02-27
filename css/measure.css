@@ -1,0 +1,40 @@
+.percents{
+    border: darkblue solid 1px;
+    width: 50%;
+}
+
+.pixely{
+    border: greenyellow solid 1px;
+    width: 1000px;
+}
+
+.vw{
+    border: black solid 1px;
+    width: 50vw;
+}
+
+td{
+    border:darkorange solid 1px
+}
+
+.d{
+    background-color: blanchedalmond;
+    width: 50%;
+    height: 20px;
+}
+.dd{
+    background-color: red;
+    width: 50%;
+    height: 20px;
+}
+
+.v{
+    background-color: blanchedalmond;
+    width: 50vw;
+    height: 20px;
+}
+.vv{
+    background-color: red;
+    width: 50vw;
+    height: 20px;
+}
