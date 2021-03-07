@@ -1,0 +1,11 @@
+ul{
+    width: 10%;
+}
+ol{
+    width: 10%;
+border: solid black 1px;
+}
+
+.list{
+    border: solid red 1px;
+}

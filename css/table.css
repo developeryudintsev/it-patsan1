@@ -9,7 +9,6 @@ td {
 
   .HeadFooter{
     background-color: aqua;
-
   }
 
 .Menu{
@@ -24,4 +23,8 @@ td {
 
 .red{
     background-color: red;
+}
+
+ol{
+    width: 10%;
 }
