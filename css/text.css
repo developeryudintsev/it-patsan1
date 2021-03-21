@@ -1,0 +1,28 @@
+.left{
+    text-align: left;
+}
+.center{
+    text-align: center;
+}
+.right{
+    text-align: right;
+}
+.textDecoration{
+    text-decoration: underline;
+}
+.textDecorationNone{
+    text-decoration: none;
+}
+.textDecorationOverline{
+    text-decoration: overline;
+}
+.textDecorationlineThrough{
+    text-decoration: line-through;
+}
+.leterSpacing{
+    letter-spacing: 30px;
+}
+.lineHeight{
+    line-height: 40px;
+    word-wrap: break-word;
+}
