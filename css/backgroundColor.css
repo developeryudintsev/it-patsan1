@@ -1,0 +1,77 @@
+table {
+    border: solid red 1px;
+    width: 80%;
+}
+
+td {
+    border: solid black 1px;
+    width: 50%;
+    height: 100px;
+  }
+
+  .color{
+      background-color: pink;
+      text-align: center;
+      font-size: 30px;
+  }
+
+  .grid{
+      background-color: #fa00cc;
+      text-align: center;
+      font-size: 30px;
+  }
+
+  .dispalayBlock{
+    text-align: center;
+      display: block;
+      background-color: red;
+      font-size: 30px;
+      width: 100%;
+  }
+
+  .displayNone{
+      display: none;
+      background-color: red;
+      font-size: 30px;
+      width: 100%;
+  }
+
+  .opacity1{
+      opacity: 1;
+      background-color: greenyellow;
+      font-size: 30px;
+      text-align: center;
+  }
+
+  .opacity0{
+    opacity: 0;
+    background-color: greenyellow;
+    font-size: 30px;
+    text-align: center;
+  }
+
+  .opacity05{
+    opacity: 0.5;
+    background-color: greenyellow;
+    font-size: 30px;
+    text-align: center;
+  }
+
+  .opacity02{
+    opacity: 0.2;
+    background-color: greenyellow;
+    font-size: 30px;
+    text-align: center;
+  }
+
+  .rgba{
+      background-color: rgba(54, 64, 255, 0.5);
+      font-size: 30px;
+      text-align: center;
+  }
+
+ .gradient{
+     background: linear-gradient(-90deg,red,yellow,deeppink);
+     font-size: 30px;
+     text-align: center;
+ }
