@@ -1,0 +1,88 @@
+table {
+    border: solid red 1px;
+    width: 35%;
+}
+
+td {
+    border: solid black 1px;
+    height: 200px;
+    background-color: burlywood;
+  }
+
+  .picture1{
+        background-image: url('./../img/picture1.jpg');
+        background-repeat: no-repeat;
+        font-size: 45px;
+  }
+  .picture2{
+        background-image: url('./../img/picture2.jpg');
+        background-repeat: no-repeat;
+        font-size: 45px;
+   }
+
+   .cover1{
+    background-image: url('./../img/picture1.jpg');
+    background-repeat: no-repeat;
+    font-size: 45px;
+    background-size: cover;
+}
+    .cover2{
+      background-image: url('./../img/picture2.jpg');
+    background-repeat: no-repeat;
+    font-size: 45px;
+    background-size: cover;
+}
+
+.contain1{
+    background-image: url('./../img/picture1.jpg');
+    background-repeat: no-repeat;
+    font-size: 45px;
+    background-size: contain;
+}
+.contain2{
+    background-image: url('./../img/picture2.jpg');
+    background-repeat: no-repeat;
+    font-size: 45px;
+    background-size: contain;
+}
+
+
+.stoXsto1{
+    background-image: url('./../img/picture1.jpg');
+    background-repeat: no-repeat;
+    font-size: 45px;
+    background-size: 100% 100%;
+}
+.stoXsto2{
+    background-image: url('./../img/picture2.jpg');
+    background-repeat: no-repeat;
+    font-size: 45px;
+    background-size: 100% 100%;
+}
+
+
+.width1{
+    background-image: url('./../img/picture1.jpg');
+    background-repeat: no-repeat;
+    font-size: 45px;
+    background-size: 250px;
+}
+.width2{
+    background-image: url('./../img/picture2.jpg');
+    background-repeat: no-repeat;
+    font-size: 45px;
+    background-size: 250px;
+}
+
+.bigPicture{
+    background-image: url('./../img/picture4.png');
+    background-repeat: no-repeat;
+    font-size: 45px;
+    background-size: 100% 100%;
+}
+.smallPicture{
+    background-image: url('./../img/picture44.png');
+    background-repeat: no-repeat;
+    font-size: 45px;
+    background-size: 100% 100%;
+}
