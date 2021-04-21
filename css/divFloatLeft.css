@@ -1,0 +1,45 @@
+.header{
+    border:1px solid red;
+    text-align: center;
+    height: 50px;
+    background-color: blanchedalmond;
+    font-family: 'Redressed', cursive;
+    font-size: 50px;
+}
+.menu{
+    border:1px solid red;
+    text-align: center;
+    height: 1000px;
+    background-color: blue;
+    width: 10%;
+    float: left;
+}
+.content{
+    border:1px solid red;
+    text-align: center;
+    height: 1000px;
+    background-color: brown;
+    width: 79.5%;
+    float: left;
+}
+
+.menu2{
+    border:1px solid red;
+    text-align: center;
+    height:1000px;
+    background-color: blue;
+    width: 10%;
+    float: left;
+}
+
+.stopGlue{
+    clear: both;
+}
+
+.footer{
+    border:1px solid red;
+    text-align: center;
+    height: 50px;
+    background-color: blanchedalmond;
+   
+}
