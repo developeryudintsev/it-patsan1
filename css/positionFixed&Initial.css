@@ -1,0 +1,26 @@
+.site{
+    position: relative;
+}
+
+.site .header{
+    height: 100px;
+    width: 100%;
+    background-color: chartreuse;
+    position: fixed;
+    /* position: initial; */
+    z-index: 2;
+  }
+
+.site .content{
+position: absolute;
+top: 120px;
+z-index: 1;
+}
+.site .support{
+    width: 250px;
+    height: 250px;
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+    z-index: 3;
+}
